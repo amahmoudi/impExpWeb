@@ -1,0 +1,10 @@
+1) you should create a new mysql databse (create database test;)and lanch the script in the folder(src/main/ressources)
+
+2) we have the parameter of download and upload operation , we should create the folders and make the test file in the download folder
+and the file to download should have the same name like the proprty (file.name) in application.proprties.
+
+RQ: if you choose gmail to send The Email : please visit this link
+
+https://www.google.com/settings/security/lesssecureapps
+
+you will see turn off or turn on. Click "Turn on"
