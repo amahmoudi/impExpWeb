@@ -1,0 +1,1 @@
+drop table gui_user;
